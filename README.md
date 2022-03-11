@@ -8,5 +8,6 @@
 - 🌱 I’m currently learning more about DevOps (Ansible, Packer etc)
 - 👯 I’m looking to collaborate on anything that will help the macOS developer community
 - 📫 How to reach/find me:
-  - LinkedIn: https://www.linkedin.com/in/adam-hartley/
-  - Blog: https://blog.bytesguy.com
+  - 🔗 LinkedIn: https://www.linkedin.com/in/adam-hartley/
+  - ✍️ Blog: https://blog.bytesguy.com
+  - 🐦 Twitter: https://twitter.com/BytesGuy
