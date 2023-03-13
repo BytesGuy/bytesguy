@@ -1,6 +1,6 @@
 ### 👋 Hello! BytesGuy here.
 
-- 💻 I work at CircleCI as trhe Images Team Lead (Senior Software Development Engineer)
+- 💻 I work at CircleCI as the Images Team Lead (Senior Software Development Engineer)
   - 🍎 I create and maintain Xcode VM images
   - 🐳 Plus Docker images too!
 - 💬 Ask me anything about macOS
