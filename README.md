@@ -2,7 +2,8 @@
 
 - 💻 I work at CircleCI as the Images Team Lead (Senior Software Development Engineer)
   - 🍎 I create and maintain Xcode VM images
-  - 🐳 Plus Docker images too!
+  - 🐳 Plus Docker images!
+  - 💽 And many more image types!
 - 💬 Ask me anything about macOS
 - 🔭 I’m currently working on some side projects, including building Vagrant Boxes
 - 🌱 I’m currently learning more about DevOps (Ansible, Packer etc)
